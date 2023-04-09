@@ -34,6 +34,7 @@ Interests that will not subside:
 - Motorsport
 - Box
 - Creating games
+- Auto, Aviation, Computer Engineering
 
 A real programmer is someone who 
 knows how to be original and 
