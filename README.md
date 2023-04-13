@@ -1,4 +1,4 @@
-## Hi I'm Neon
+## Hello Neon with you
 as you can see 
 I have little experience in everything but
 as soon as I have the opportunity to become
@@ -23,6 +23,14 @@ a pentester I will immediately start studying.
 - PostgreSQL
 - Hibernate
 - JDBC
+## I love working with
+- Metasploit
+- Nmap
+- Sqlpmap
+- Aircrack-ng
+- Hashcat
+- Java, C#, Python
+- Linux
 
 ## Tools
 - Linux OS
@@ -36,8 +44,6 @@ a pentester I will immediately start studying.
 - Box
 - Creating games
 - Auto, Aviation, Computer Engineering
-
-A real programmer is someone who 
-knows how to be original and 
-can come up with his own at 
-least individually.
+___
+I am a realist and it is logical to think to me.
+Let's say I'm a Java developer where would they take me?
