@@ -3,11 +3,11 @@ as you can see
 I have little experience in everything but
 as soon as I have the opportunity to become
 a pentester I will immediately start studying.
-___
+
 ## Contact with me:
 - Telegram: https://t.me/Hephaestus_0
 - Email: ucco1000@protonmail.com
-___
+
 ## Skills:
 - Spring MVC
 - Spring Core
@@ -23,13 +23,13 @@ ___
 - PostgreSQL
 - Hibernate
 - JDBC
-___
+
 ## Tools
 - Linux OS
 - Windows OS
 - Intellij IDEA
 - Apache Tomcat
-___
+
 ## Interests that will not subside:
 - Ethical hacking
 - Motorsport
