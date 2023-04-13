@@ -30,7 +30,8 @@ a pentester I will immediately start studying.
 - Aircrack-ng
 - Hashcat
 - Java, C#, Python
-- Linux
+- Linux OS
+- Spring
 
 ## Tools
 - Linux OS
