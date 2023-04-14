@@ -9,7 +9,7 @@ a pentester I will immediately start studying.
 - Email: ucco1000@protonmail.com
 
 ## Skills:
-- Spring MVC  - Spring Core     - Spring Security - Spring Boot
+- Spring MVC,  - Spring Core     - Spring Security - Spring Boot
 - Git         - GitHub          - Java            - HTML
 - CSS         - JSP             - XML             - PostgreSQL
 - Hibernate   - JDBC
