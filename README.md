@@ -14,7 +14,7 @@ a pentester I will immediately start studying.
 - Java | C#
 - HTML | CSS | JSP | XML
 - PostgreSQL | Hibernate | JDBC
-- 
+
 ## I love working with
 - Metasploit | Nmap | Sqlpmap | Aircrack-ng | Hashcat
 - Java,C#,Python 
