@@ -9,10 +9,10 @@ a pentester I will immediately start studying.
 - Email: ucco1000@protonmail.com
 
 ## Skills:
-- Spring MVC,  - Spring Core     - Spring Security - Spring Boot
-- Git         - GitHub          - Java            - HTML
-- CSS         - JSP             - XML             - PostgreSQL
-- Hibernate   - JDBC
+- Spring MVC | Spring Core | Spring Security | Spring Boot
+- Git | GitHub | Java | HTML
+- CSS | JSP | XML | PostgreSQL
+- Hibernate | JDBC
 - 
 ## I love working with
 - Metasploit  - Nmap            - Sqlpmap         - Aircrack-ng
