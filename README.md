@@ -9,42 +9,21 @@ a pentester I will immediately start studying.
 - Email: ucco1000@protonmail.com
 
 ## Skills:
-- Spring MVC
-- Spring Core
-- Spring Security
-- Spring Boot
-- Git
-- GitHub
-- Java
-- HTML
-- CSS
-- JSP
-- XML
-- PostgreSQL
-- Hibernate
-- JDBC
+- Spring MVC  - Spring Core     - Spring Security - Spring Boot
+- Git         - GitHub          - Java            - HTML
+- CSS         - JSP             - XML             - PostgreSQL
+- Hibernate   - JDBC
+- 
 ## I love working with
-- Metasploit
-- Nmap
-- Sqlpmap
-- Aircrack-ng
-- Hashcat
-- Java, C#, Python
-- Linux OS
-- Spring
+- Metasploit  - Nmap            - Sqlpmap         - Aircrack-ng
+- Hashcat     - Java,C#,Python  - Linux OS        - Spring
 
 ## Tools
-- Linux OS
-- Windows OS
-- Intellij IDEA
-- Apache Tomcat
+- Linux OS    - Windows OS      - Intellij IDEA   - Apache Tomcat
 
 ## Interests that will not subside:
-- Ethical hacking
-- Motorsport
-- Box
-- Creating games
-- Auto, Aviation, Computer Engineering
+- Ethical hacking- Motorsport   - Box             - Creating games
+- Auto        - Aviation        - Computer        - Engineering
 ___
 I am a realist and it is logical to think to me.
 Let's say I'm a Java developer where would they take me?
