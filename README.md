@@ -1,5 +1,5 @@
 ## Hello Neon with you
-as you can see 
+As you can see 
 I have little experience in everything but
 as soon as I have the opportunity to become
 a pentester I will immediately start studying.
