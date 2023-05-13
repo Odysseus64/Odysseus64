@@ -11,7 +11,7 @@ a pentester I will immediately start studying.
 ## Skills:
 - Spring MVC | Spring Core | Spring Security | Spring Boot
 - Git | GitHub
-- Java | C#
+- Java | C# | Python | PHP
 - HTML | CSS | JSP | XML
 - PostgreSQL | Hibernate | JDBC
 
