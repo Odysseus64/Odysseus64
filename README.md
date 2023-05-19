@@ -14,18 +14,18 @@ a pentester I will immediately start studying.
 - Java | C# | Python | PHP
 - HTML | CSS | JSP | XML
 - PostgreSQL | Hibernate | JDBC
+- ClickUp | Figma
 
 ## I love working with
-- Metasploit | Nmap | Sqlpmap | Aircrack-ng | Hashcat
-- Java,C#,Python 
-- Linux OS        
-- Spring
+- Metasploit | Nmap | Sqlpmap | Aircrack-ng | Hashcat | Venator | BurpSuite
+- Java, C#, Python, PHP
+- Kali Linux
+- Spring, Vaadim
 
 ## Tools
 - Linux OS
-- Windows OS
 - Intellij IDEA
-- Apache Tomcat
+- Apache Tomcat | XAMPP
 
 ## Interests that will not subside:
 - Ethical hacking
