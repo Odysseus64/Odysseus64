@@ -20,7 +20,7 @@ a pentester I will immediately start studying.
 - Metasploit | Nmap | Maltego | Aircrack-ng | Hashcat | Venator | BurpSuite
 - Java, C#, Python, PHP
 - Kali Linux
-- Spring, Vaadim
+- Spring, Vaadin
 
 ## Tools
 - Linux OS
