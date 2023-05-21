@@ -17,7 +17,7 @@ a pentester I will immediately start studying.
 - ClickUp | Figma
 
 ## I love working with
-- Metasploit | Nmap | Sqlpmap | Aircrack-ng | Hashcat | Venator | BurpSuite
+- Metasploit | Nmap | Maltego | Aircrack-ng | Hashcat | Venator | BurpSuite
 - Java, C#, Python, PHP
 - Kali Linux
 - Spring, Vaadim
