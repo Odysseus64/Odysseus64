@@ -32,7 +32,7 @@ a pentester I will immediately start studying.
 - Motorsport
 - Box
 - Creating games
-- AutoSport | Aviation | Computer Engineering
+- AutoSport | Aviation | Social Engineering
 ___
 I am a realist and it is logical to think to me.
 Let's say I'm a Java developer where would they take me?
