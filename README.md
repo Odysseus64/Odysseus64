@@ -5,7 +5,7 @@ as soon as I have the opportunity to become
 a pentester I will immediately start studying.
 
 ## Contact with me:
-- Telegram: https://t.me/Hephaestus_0
+- Telegram: https://t.me/Neon_Storm
 - Email: ucco2000@protonmail.com
 
 ## Skills:
