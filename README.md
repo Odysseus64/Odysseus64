@@ -1,8 +1,5 @@
 ## Hello Neon with you
-As you can see 
-I have little experience in everything but
-as soon as I have the opportunity to become
-a pentester I will immediately start studying.
+This profession has only recently begun to appear, and at such moments you need gray cloaks that will save you from threats or become them themselves.
 
 ## Contact with me:
 - Telegram: https://t.me/Neon_Storm
