@@ -2,7 +2,7 @@
 - This profession has only recently begun to appear, and at such moments you need gray cloaks that will save you from threats or become them themselves.
 
 ## Contact with me:
-- Email: ucco2000@protonmail.com
+- 
 
 ## Skills:
 - Spring MVC | Spring Core | Spring Security | Spring Boot
