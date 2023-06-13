@@ -4,8 +4,6 @@ I have little experience in everything but
 as soon as I have the opportunity to become
 a pentester I will immediately start studying.
 
-## Contact with me:
-
 ## Skills:
 - Spring MVC | Spring Core | Spring Security | Spring Boot
 - Git | GitHub
