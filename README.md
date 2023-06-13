@@ -1,8 +1,4 @@
 ## Hello Neon with you
-As you can see 
-I have little experience in everything but
-as soon as I have the opportunity to become
-a pentester I will immediately start studying.
 
 ## Skills:
 - Spring MVC | Spring Core | Spring Security | Spring Boot
