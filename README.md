@@ -7,4 +7,5 @@
 - HTML | CSS | JSP | XML
 - PostgreSQL | Hibernate | JDBC
 - ClickUp | Figma
-- Linux OS
+- Linux OS 
+- Metasploit | nmap | BurpSuite | Venator | 
