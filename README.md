@@ -3,7 +3,7 @@
 ## Tools:
 - Spring MVC | Spring Core | Spring Security | Spring Boot
 - Git | GitHub
-- Java | C# | C++ | Python | PHP
+- Java | Python | C++
 - HTML | CSS | JSP | XML
 - PostgreSQL | Hibernate | JDBC
 - ClickUp | Figma
