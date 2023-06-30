@@ -8,4 +8,4 @@
 - PostgreSQL | Hibernate | JDBC
 - ClickUp | Figma
 - Linux OS 
-- Metasploit | nmap | BurpSuite | Venator | 
+- Metasploit | nmap | BurpSuite | Venator | hydra
